@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c03f2fc6-bc6a-e647-a7b1-3baa451f2a05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "People and Other Animals",
+  "course_description": "This course is a historical exploration of the ways that people have interacted with their closest animal relatives, for example: hunting, domestication of livestock, exploitation of animal labor, scientific study of animals, display of exotic and performing animals, and pet-keeping. Themes include changing ideas about animal agency and intelligence, our moral obligations to animals, and the limits imposed on the use of animals. Students taking the graduate version complete additional assignments.\n",
+  "department_numbers": [
+    "21H",
+    "21A"
+  ],
+  "extra_course_numbers": "21A.419J,21H.980J,21A.411J",
+  "primary_course_number": "21H.380J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
